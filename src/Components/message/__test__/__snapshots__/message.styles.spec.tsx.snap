@@ -1,0 +1,118 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`message.styles Container DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  max-width: 400px;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`message.styles ContainerTexto DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  width: 100%;
+  margin-bottom: 5px;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`message.styles TextMessege DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  font-size: 18px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: 26px;
+  cursor: text;
+}
+
+.c1 {
+  text-align: center;
+}
+
+<h2
+  className="c0 c1"
+/>
+`;
+
+exports[`message.styles TextMessege DEVE ser igual ao snapshot 2`] = `
+.c0 {
+  font-size: 18px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: 26px;
+  cursor: text;
+}
+
+.c1 {
+  color: #3D9DB3;
+  text-align: center;
+}
+
+<h2
+  className="c0 c1"
+/>
+`;
+
+exports[`message.styles TextTitle DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  font-size: 24px;
+  font-family: AvertaStd-Bold;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: 34px;
+  cursor: text;
+}
+
+<h1
+  className="c0 "
+/>
+`;
+
+exports[`message.styles TextTitle DEVE ser igual ao snapshot 2`] = `
+.c0 {
+  font-size: 24px;
+  font-family: AvertaStd-Bold;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: 34px;
+  cursor: text;
+}
+
+.c1 {
+  color: #3D9DB3;
+}
+
+<h1
+  className="c0 c1"
+/>
+`;

@@ -1,0 +1,276 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Text.styles Texto "H1" DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: text;
+}
+
+<h1
+  className="c0"
+/>
+`;
+
+exports[`Text.styles Texto "H2" DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: text;
+}
+
+<h2
+  className="c0"
+/>
+`;
+
+exports[`Text.styles Texto "H3" DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: text;
+}
+
+<h3
+  className="c0"
+/>
+`;
+
+exports[`Text.styles Texto "H4" DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: text;
+}
+
+<h4
+  className="c0"
+/>
+`;
+
+exports[`Text.styles Texto "H5" DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: text;
+}
+
+<h5
+  className="c0"
+/>
+`;
+
+exports[`Text.styles Texto "H6" DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: text;
+}
+
+<h6
+  className="c0"
+/>
+`;
+
+exports[`Text.styles Texto "P" DEVE estar com o texto em "uppercase" QUANDO for passado pelo props 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: uppercase;
+  line-height: px;
+  cursor: text;
+}
+
+<p
+  className="c0"
+/>
+`;
+
+exports[`Text.styles Texto "P" DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: text;
+}
+
+<p
+  className="c0"
+/>
+`;
+
+exports[`Text.styles Texto "P" DEVE ter a cor #f4715D QUANDO for passada pelo props 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #f4715D;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: text;
+}
+
+<p
+  className="c0"
+/>
+`;
+
+exports[`Text.styles Texto "P" DEVE ter o alturaDeLinha como "32" QUANDO for passado "32" no alturaDeLinha da props 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: 32px;
+  cursor: text;
+}
+
+<p
+  className="c0"
+/>
+`;
+
+exports[`Text.styles Texto "P" DEVE ter o cursor como "default" QUANDO for passado "default" no cursor da props 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: default;
+}
+
+<p
+  className="c0"
+  cursor="default"
+/>
+`;
+
+exports[`Text.styles Texto "P" DEVE ter o cursor como "pointer" QUANDO for passado "pointer" no cursor da props 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: pointer;
+}
+
+<p
+  className="c0"
+  cursor="pointer"
+/>
+`;
+
+exports[`Text.styles Texto "P" DEVE ter o fontSize como "32" QUANDO for passado "32" no fontSize da props 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: text;
+}
+
+<p
+  className="c0"
+  fontSize="32px"
+/>
+`;
+
+exports[`Text.styles Texto "P" DEVE ter o marginTop como "32" QUANDO for passado "32" no marginTop da props 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 32px;
+  text-transform: none;
+  line-height: px;
+  cursor: text;
+}
+
+<p
+  className="c0"
+/>
+`;
+
+exports[`Text.styles Texto "P" DEVE ter o peso como "bold" QUANDO for passado "bold" no peso da props 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Bold;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: text;
+}
+
+<p
+  className="c0"
+/>
+`;
+
+exports[`Text.styles Texto "P" DEVE ter o peso como "medium" QUANDO for passado "medium" no peso da props 1`] = `
+.c0 {
+  font-size: 12px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: text;
+}
+
+<p
+  className="c0"
+/>
+`;
+
+exports[`Text.styles Texto "P" DEVE ter o tamanho como "32" QUANDO for passado "32" no tamanho da props 1`] = `
+.c0 {
+  font-size: 32px;
+  font-family: AvertaStd-Regular;
+  color: #000000;
+  margin-top: 0px;
+  text-transform: none;
+  line-height: px;
+  cursor: text;
+}
+
+<p
+  className="c0"
+/>
+`;

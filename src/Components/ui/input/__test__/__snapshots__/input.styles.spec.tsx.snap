@@ -1,0 +1,121 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input.styles Container DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  width: 100%;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Input.styles ContainerInput DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  width: 100%;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Input.styles ContainerInputBox DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  -webkit-justify-content: space-between;
+  -ms-flex-pack: justify;
+  justify-content: space-between;
+  width: 100%;
+  border-radius: 2px;
+  border: 1px solid #545d6A;
+  background-color: #FFFFFF;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Input.styles InputBox DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  height: 30px;
+  width: 100%;
+  padding: 8px 0;
+  text-indent: 8px;
+  font-size: 16px;
+  border: none;
+  background-color: #FFFFFF;
+  color: #000000;
+  outline: 0;
+}
+
+<input
+  className="c0"
+/>
+`;
+
+exports[`Input.styles LabelBox DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-flex-direction: column;
+  -ms-flex-direction: column;
+  flex-direction: column;
+  gap: 4px;
+}
+
+<label
+  className="c0"
+/>
+`;
+
+exports[`Input.styles MostrarSenha DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  margin: 0 10px;
+  width: 30px;
+  height: 30px;
+  cursor: pointer;
+}
+
+<div
+  className="c0"
+/>
+`;

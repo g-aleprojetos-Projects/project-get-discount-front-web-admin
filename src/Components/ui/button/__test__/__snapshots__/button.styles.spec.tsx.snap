@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Button.styles Container DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  margin: 15px;
+}
+
+<div
+  className="c0"
+/>
+`;
+
+exports[`Button.styles ContainerButton DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  min-width: 200px;
+  background-color: #0000FF;
+  border-radius: 8px;
+  border: none;
+  padding: 8px 60px;
+  cursor: pointer;
+}
+
+<button
+  className="c0"
+/>
+`;
+
+exports[`Button.styles ContainerButton DEVE ser igual ao snapshot QUANDO o tipo for "cancelar" 1`] = `
+.c0 {
+  min-width: 200px;
+  background-color: #f4715D;
+  border-radius: 8px;
+  border: none;
+  padding: 8px 60px;
+  cursor: pointer;
+}
+
+<button
+  className="c0"
+/>
+`;
+
+exports[`Button.styles ContainerButton DEVE ser igual ao snapshot QUANDO o tipo for "confirmar" 1`] = `
+.c0 {
+  min-width: 200px;
+  background-color: #04C582;
+  border-radius: 8px;
+  border: none;
+  padding: 8px 60px;
+  cursor: pointer;
+}
+
+<button
+  className="c0"
+/>
+`;
+
+exports[`Button.styles ContainerButton DEVE ser igual ao snapshot QUANDO o tipo for "fechar" 1`] = `
+.c0 {
+  min-width: 200px;
+  background-color: #0000FF;
+  border-radius: none;
+  border: none;
+  padding: none;
+  cursor: pointer;
+}
+
+<button
+  className="c0"
+/>
+`;
+
+exports[`Button.styles ContainerButton DEVE ser igual ao snapshot QUANDO o tipo for "ok" 1`] = `
+.c0 {
+  min-width: 200px;
+  background-color: #0000FF;
+  border-radius: 8px;
+  border: none;
+  padding: 8px 60px;
+  cursor: pointer;
+}
+
+<button
+  className="c0"
+/>
+`;
+
+exports[`Button.styles ContainerButton DEVE ser igual ao snapshot QUANDO o tipo for "submit" 1`] = `
+.c0 {
+  min-width: 200px;
+  background-color: #0000FF;
+  border-radius: 8px;
+  border: none;
+  padding: 8px 60px;
+  cursor: pointer;
+}
+
+<button
+  className="c0"
+/>
+`;

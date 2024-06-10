@@ -1,0 +1,106 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Input.styles ContainerContent DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-flex-flow: row nowrap;
+  -ms-flex-flow: row nowrap;
+  flex-flow: row nowrap;
+  position: static;
+  background-color: 'transparent';
+  -webkit-transform: 'none';
+  -ms-transform: 'none';
+  transform: 'none';
+  top: 'auto';
+  right: 'auto';
+  width: 'auto';
+  height: auto;
+  padding-top: 'auto';
+  -webkit-transition: 'none';
+  transition: 'none';
+}
+
+<ul
+  className="c0"
+/>
+`;
+
+exports[`Input.styles ContainerNav DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-align-items: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  height: 89px;
+  padding-right: 55px;
+}
+
+<nav
+  className="c0"
+/>
+`;
+
+exports[`Input.styles Item DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 8px;
+  margin: 5px 21px;
+  color: #FFFFFF;
+}
+
+<li
+  className="c0"
+/>
+`;
+
+exports[`Input.styles ItemNav DEVE ser igual ao snapshot 1`] = `
+.c0 {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  -webkit-box-pack: center;
+  -webkit-justify-content: center;
+  -ms-flex-pack: center;
+  justify-content: center;
+  padding: 8px;
+  margin: 5px 21px;
+  color: #FFFFFF;
+}
+
+.c1 {
+  width: 100%;
+  white-space: nowrap;
+  cursor: pointer;
+}
+
+.c1:hover {
+  background-color: 'none';
+}
+
+<li
+  className="c0 c1"
+/>
+`;
